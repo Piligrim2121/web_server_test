@@ -1,0 +1,15 @@
+C:\Users\Данил\source\repos\web_server_test\web_server_test\obj\Debug\web_server_test.csprojAssemblyReference.cache
+C:\Users\Данил\source\repos\web_server_test\web_server_test\obj\Debug\MainWindow.g.cs
+C:\Users\Данил\source\repos\web_server_test\web_server_test\obj\Debug\App.g.cs
+C:\Users\Данил\source\repos\web_server_test\web_server_test\obj\Debug\web_server_test_MarkupCompile.cache
+C:\Users\Данил\source\repos\web_server_test\web_server_test\obj\Debug\web_server_test_MarkupCompile.lref
+C:\Users\Данил\source\repos\web_server_test\web_server_test\bin\Debug\web_server_test.exe.config
+C:\Users\Данил\source\repos\web_server_test\web_server_test\bin\Debug\web_server_test.exe
+C:\Users\Данил\source\repos\web_server_test\web_server_test\bin\Debug\web_server_test.pdb
+C:\Users\Данил\source\repos\web_server_test\web_server_test\obj\Debug\MainWindow.baml
+C:\Users\Данил\source\repos\web_server_test\web_server_test\obj\Debug\web_server_test.g.resources
+C:\Users\Данил\source\repos\web_server_test\web_server_test\obj\Debug\web_server_test.Properties.Resources.resources
+C:\Users\Данил\source\repos\web_server_test\web_server_test\obj\Debug\web_server_test.csproj.GenerateResource.cache
+C:\Users\Данил\source\repos\web_server_test\web_server_test\obj\Debug\web_server_test.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\web_server_test\web_server_test\obj\Debug\web_server_test.exe
+C:\Users\Данил\source\repos\web_server_test\web_server_test\obj\Debug\web_server_test.pdb
